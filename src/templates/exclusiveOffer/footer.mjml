@@ -1,9 +1,22 @@
 <mj-section>
-
   <mj-column>
-    <mj-text>
-      This is the footer
-    </mj-text>
-  </mj-column>
+      <mj-image
+        src="http://c2me-newsletter.s3-website-us-east-1.amazonaws.com/logo-black.svg"
+        href="https://cater2.me/"
+        alt="cater2me logo"
+        align="center"
+        border="none"
+        width="74px"
+        padding="0"
+     >
+      </mj-image>
+      <mj-text
+        align="center"
+        font-size="9px"
+        letter-spacing="0.49px"
+      >
+        Copyright © Cater2.me 2018
+      </mj-text>
+    </mj-column>
 
 </mj-section>

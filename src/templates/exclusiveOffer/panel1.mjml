@@ -1,0 +1,21 @@
+<mj-section background-color="#fff">
+  <mj-column>
+    <mj-text>
+      Office catering is the ultimate employee benefit, proven to help improve recruitment, increase retention, and boost productivity.
+    </mj-text>
+    <mj-text>
+      From team lunches and catered meetings to birthday treats and holiday parties, Cater2.me can take care of it all.
+    </mj-text>
+    <mj-text>
+      Get the special offer for ASAP members: 10% off your first month of catering!
+    </mj-text>
+    <mj-button
+      align="center"
+      vertical-align="middle"
+      border="none"
+      href="http://try.cater2.me/asap?utm_medium=email&utm_source=sponsored&utm_campaign=asap&utm_content=10off&utm_term=getoffer"
+    >
+      GET THE OFFER!
+    </mj-button>
+  </mj-column>
+</mj-section>

@@ -1,27 +1,39 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-      <mj-text color="#3E3D3C" />
+      <mj-text color="#3E3D3C" line-height="1.35" font-size="14px" />
+      <mj-button background-color="FFD93D" color="#3E3D3C" padding="15px 30px"
+      border-radius="0" />
     </mj-attributes>
     <mj-style inline="true">
       /* TODO: move to external banner*/
       .c2me-divider p {margin: 0!important}
     </mj-style>
+    <mj-body font-family="Poppins, Trebuche, sans-serif" />
     <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppin"></mj-font>
   </mj-head>
 
-  <mj-body background-color="#eee">
+  <mj-body background-color="#EAEAEB">
     <mj-include path="./banner.mjml" />
-    <mj-section background-color="#fff">
+    <mj-wrapper padding="20px">
+      <mj-include path="./panel1.mjml" />
+    </mj-wrapper>
+    <mj-section padding="0">
       <mj-column>
         <mj-text align="center">
-          <h2>TEST</h2>
+          Not ready to place an order? <br/>
+          <a
+            href="http://try.cater2.me/asap?utm_medium=email&utm_source=sponsored&utm_campaign=asap&utm_content=10off&utm_term=retreivecode"  style="color:#3E3D3C; text-decoration:underline;"
+          >
+           Retrieve the code
+          </a>
+ and get 10% off your meals through May 2018!
         </mj-text>
       </mj-column>
-      <mj-column>
-        <mj-image width="200" src="http://placehold.it/200x200"></mj-image>
-      </mj-column>
     </mj-section>
+    <mj-wrapper padding="20px">
+      <mj-include path="./panel2.mjml" />
+    </mj-wrapper>
     <mj-include path="./footer.mjml" />
   </mj-body>
 </mjml>
