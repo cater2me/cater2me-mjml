@@ -22,7 +22,8 @@
         line-height="1.35"
         letter-spacing="1.15"
       >
-        Better Office Catering with Cater2.me
+        Better Office Catering <br/>
+        with Cater2.me
       </mj-text>
     </mj-column>
   </mj-section>
