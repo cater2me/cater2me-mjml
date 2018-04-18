@@ -3,7 +3,7 @@
     <mj-attributes>
       <mj-text color="#3E3D3C" line-height="1.35" font-size="14px" />
       <mj-button background-color="FFD93D" color="#3E3D3C" padding="15px 30px"
-      border-radius="0" />
+      border-radius="0" vertical-align="middle" border="none" />
     </mj-attributes>
     <mj-style inline="true">
       /* TODO: move to external banner*/

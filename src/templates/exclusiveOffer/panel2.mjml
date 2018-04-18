@@ -1,9 +1,62 @@
 <mj-section background-color="#fff">
-
   <mj-column>
-    <mj-text>
-      This is Panel2
+    <mj-text font-size="18px">
+      How Cater2.me helps you:
     </mj-text>
   </mj-column>
+</mj-section>
 
+<mj-section background-color="#fff" padding="0">
+	<mj-column>
+    <mj-image
+      src="http://c2me-newsletter.s3-website-us-east-1.amazonaws.com/icon1.svg"
+      href="https://cater2.me/"
+      alt="cater2me icon"
+      align="center"
+      border="none"
+      width="100%"
+      padding-top="0">
+    </mj-image>
+    <mj-text align="center">
+      Taste-tested vendors with dozens of cuisines
+    </mj-text>
+  </mj-column>
+  <mj-column>
+    <mj-image
+      src="http://c2me-newsletter.s3-website-us-east-1.amazonaws.com/icon2.svg"
+      href="https://cater2.me/"
+      alt="cater2me icon"
+      align="center"
+      border="none"
+      width="100%"
+      padding-top="0">
+    </mj-image>
+    <mj-text align="center">
+      Dedicated in-market account managers
+    </mj-text>
+  </mj-column>
+  <mj-column>
+    <mj-image
+      src="http://c2me-newsletter.s3-website-us-east-1.amazonaws.com/icon3.svg"
+      href="https://cater2.me/"
+      alt="cater2me icon"
+      align="center"
+      border="none"
+      width="100%"
+      padding-top="0">
+    </mj-image>
+    <mj-text align="center">
+      Comprehensive service, from planning to setup
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section background-color="#fff" padding-top="0">
+  <mj-column>
+    <mj-button
+      align="center"
+      href="http://try.cater2.me/asap?utm_medium=email&utm_source=sponsored&utm_campaign=asap&utm_content=10off&utm_term=getoffer"
+    >
+      GET 10% OFF
+    </mj-button>
+  </mj-column>
 </mj-section>
