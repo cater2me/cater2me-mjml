@@ -1,0 +1,19 @@
+{
+  "name": "newsletter.cater2.me",
+  "version": "0.0.1",
+  "description": "cater2.me",
+  "main": "index.js",
+  "repository": "",
+  "author": "Rudolf Kovalyov <rudolf.kovalyov@gmail.com>",
+  "license": "PRIVATE",
+  "private": true,
+  "scripts": {},
+  "engines": {
+    "node": "~8.9.0",
+    "npm": "~5.5.1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mjml": "^4.0.3"
+  }
+}
