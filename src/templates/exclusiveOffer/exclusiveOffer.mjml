@@ -1,0 +1,27 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text color="#3E3D3C" />
+    </mj-attributes>
+    <mj-style inline="true">
+      /* TODO: move to external banner*/
+      .c2me-divider p {margin: 0!important}
+    </mj-style>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppin"></mj-font>
+  </mj-head>
+
+  <mj-body background-color="#eee">
+    <mj-include path="./banner.mjml" />
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text align="center">
+          <h2>TEST</h2>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image width="200" src="http://placehold.it/200x200"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-include path="./footer.mjml" />
+  </mj-body>
+</mjml>
