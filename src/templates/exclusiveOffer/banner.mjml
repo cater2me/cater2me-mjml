@@ -1,6 +1,6 @@
 <mj-hero
   background-url="http://c2me-newsletter.s3-website-us-east-1.amazonaws.com/banner.png"
-  padding="20px"
+  padding="20px 0"
 >
   <mj-image
     src="http://c2me-newsletter.s3-website-us-east-1.amazonaws.com/logo-white.png"
@@ -30,7 +30,7 @@
   </mj-divider>
   <mj-text
     color="#fff"
-    font-size="19px"
+    font-size="18px"
     line-height="1.35"
     letter-spacing="1.1"
   >
