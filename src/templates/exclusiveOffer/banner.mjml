@@ -18,7 +18,7 @@
     letter-spacing="1.15"
     font-weight="500"
   >
-    Better Office Catering with <span class="not-a-link white">Cater2.me</span>
+    Better Office Catering <br/>with <span class="not-a-link white">Cater2.me</span>
   </mj-text>
   <mj-divider
     css-class="c2me-divider"
