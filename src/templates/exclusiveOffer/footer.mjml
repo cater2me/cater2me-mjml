@@ -8,7 +8,7 @@
 <mj-section padding-top="0">
   <mj-column>
     <mj-image
-      src="http://c2me-newsletter.s3-website-us-east-1.amazonaws.com/logo-black.svg"
+      src="http://c2me-newsletter.s3-website-us-east-1.amazonaws.com/logo-black.png"
       href="https://cater2.me/"
       alt="cater2me logo"
       align="center"
@@ -22,7 +22,7 @@
       font-size="9px"
       letter-spacing="0.49px"
     >
-      Copyright © Cater2.me 2018
+      Copyright © <span class="not-a-link gray">Cater2.me</span> 2018
     </mj-text>
   </mj-column>
 </mj-section>

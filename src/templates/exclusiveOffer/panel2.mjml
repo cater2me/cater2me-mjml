@@ -53,6 +53,7 @@
 <mj-section background-color="#fff" padding-top="0">
   <mj-column>
     <mj-button
+      css-class="c2me-btn"
       align="center"
       href="http://try.cater2.me/asap?utm_medium=email&utm_source=sponsored&utm_campaign=asap&utm_content=10off&utm_term=getoffer"
     >
