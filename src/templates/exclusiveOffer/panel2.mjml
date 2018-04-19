@@ -9,7 +9,7 @@
 <mj-section background-color="#fff" padding="0">
 	<mj-column>
     <mj-image
-      src="http://c2me-newsletter.s3-website-us-east-1.amazonaws.com/icon1.svg"
+      src="http://c2me-newsletter.s3-website-us-east-1.amazonaws.com/icon1.png"
       href="https://cater2.me/"
       alt="cater2me icon"
       align="center"
@@ -23,7 +23,7 @@
   </mj-column>
   <mj-column>
     <mj-image
-      src="http://c2me-newsletter.s3-website-us-east-1.amazonaws.com/icon2.svg"
+      src="http://c2me-newsletter.s3-website-us-east-1.amazonaws.com/icon2.png"
       href="https://cater2.me/"
       alt="cater2me icon"
       align="center"
@@ -37,7 +37,7 @@
   </mj-column>
   <mj-column>
     <mj-image
-      src="http://c2me-newsletter.s3-website-us-east-1.amazonaws.com/icon3.svg"
+      src="http://c2me-newsletter.s3-website-us-east-1.amazonaws.com/icon3.png"
       href="https://cater2.me/"
       alt="cater2me icon"
       align="center"
