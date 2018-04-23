@@ -1,39 +1,11 @@
-<mj-hero
-  background-url="http://c2me-newsletter.s3-website-us-east-1.amazonaws.com/banner.png"
-  padding="20px 0"
->
-  <mj-image
-    src="http://c2me-newsletter.s3-website-us-east-1.amazonaws.com/logo-white.png"
+
+<mj-image
+    src="https://s3.us-east-2.amazonaws.com/c2me-marketing/cater2.me-offer-for-asap-members.png"
     href="https://cater2.me/"
     alt="cater2me-white-logo"
     align="center"
     border="none"
-    width="100%"
+    width="600px"
     padding-top="0"
-  ></mj-image>
-  <mj-text
-    color="#fff"
-    font-size="30px"
-    line-height="1.35"
-    letter-spacing="1.15"
-    font-weight="500"
   >
-    Better Office Catering <br/>with <span class="not-a-link white">Cater2.me</span>
-  </mj-text>
-  <mj-divider
-    css-class="c2me-divider"
-    padding-bottom="0"
-    padding-top="0"
-    border-color="#FFD93D"
-    width="61px"
-  >
-  </mj-divider>
-  <mj-text
-    color="#fff"
-    font-size="18px"
-    line-height="1.35"
-    letter-spacing="1.1"
-  >
-    Get ASAP’s exclusive offer 10% off your first month of catering!
-  </mj-text>
 </mj-hero>
